@@ -1,6 +1,6 @@
 <odoo>
   <template id="mips_payment_template">
-    <t t-name="mips_payment_gateway.mips_payment_template">
+    <t t-name="payment_mips.mips_payment_template">
       <div class="mips-gateway-wrapper">
         <p>Use your MIPS credentials here…</p>
         <!-- Add custom form fields here -->

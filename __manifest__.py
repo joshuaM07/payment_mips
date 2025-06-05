@@ -3,7 +3,9 @@
     'version': '1.0',
     'category': 'Accounting/Payment',
     'summary': 'MIPS payment gateway integration',
-    'author': 'Your Name',
+    'author': 'Community',
+    'website': 'https://www.mips.mu',
+    'license': 'LGPL-3',
     'depends': ['payment'],
     'data': [
         'security/ir.model.access.csv',

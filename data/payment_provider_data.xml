@@ -3,6 +3,6 @@
     <field name="name">MIPS</field>
     <field name="code">mips</field>
     <field name="state">test</field>
-    <field name="view_template_id" ref="mips_payment_gateway.mips_payment_template"/>
+    <field name="view_template_id" ref="payment_mips.mips_payment_template"/>
   </record>
 </odoo>
